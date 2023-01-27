@@ -4,7 +4,7 @@ La entrega consiste en crear un botón contador de clicks, con html, css y js.
 
 Agrupación del proyecto:
 
-🚀La estructura de carpetas del proyecto es la siguiente...
+🚀La estructura de carpetas del proyecto es la siguiente:
 
 Carpeta assets. Esta contiene los directorios de img y js y css. Siendo index.html la raíz del proyecto.
 
